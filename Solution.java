@@ -92,3 +92,47 @@ public class Solution {
 //      return 0;
 //   }
 //}
+
+//problem 4 -find the count of no's that are evenly divisible
+//public class Solution {
+//   public static int countDigits(int n){
+//      // // Write your code here.
+//      // int a=n,c=0;
+//      // while(n>0){
+//      //     int r= n%10;
+//      //     if(r!=0){
+//      //         if(a%r==0){
+//      //             c++;
+//      //             n=n/10;
+//      //         }
+//      //     }
+//      // }
+//      // return c;
+//      int r=0;
+//
+//      int no=n;
+//
+//      int count=0;
+//
+//      while(n>0){
+//
+//
+//
+//         r= n%10;
+//
+//         if(r !=0 && no%r==0){
+//
+//            count++;
+//
+//         }
+//
+//         n=n/10;
+//
+//      }
+//
+//
+//
+//      return count;
+//   }
+//
+//}
