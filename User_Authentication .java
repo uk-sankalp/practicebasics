@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 public class User_Authentication 
 {
@@ -18,7 +17,5 @@ public class User_Authentication
         {
             System.out.println("Authentication Failed");
         }
-    }
-}
     }
 }
