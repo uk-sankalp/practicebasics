@@ -1,4 +1,4 @@
-// to concatinate two arrays by adding same array element at the begining of len*2
+//1)prob 1-- to concatinate two arrays by adding same array element at the begining of len*2
 class Solution {
     public int[] getConcatenation(int[] nums) {
         int len = nums.length;
