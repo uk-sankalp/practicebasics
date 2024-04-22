@@ -11,3 +11,5 @@ class Solution {
         return ans;
     }
 }
+
+//2)prob 2--
