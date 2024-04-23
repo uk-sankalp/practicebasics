@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class User_Authentication 
 {
-    public static void main(String args[])//program won't run if we dont add
+    public static void main(String args[])//program won't run if we dont add main method
     {
         String username, password;
         Scanner s = new Scanner(System.in);
